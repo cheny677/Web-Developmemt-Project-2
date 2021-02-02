@@ -1,0 +1,9 @@
+.background {
+  --background: url("./bg1.jpg") no-repeat center/cover fixed;
+}
+
+.RowContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

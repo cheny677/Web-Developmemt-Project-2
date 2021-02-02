@@ -1,0 +1,25 @@
+:root {
+    --ion-color-secondary: #ece24b;
+    --ion-color-secondary-rgb: 0,102,0;
+    --ion-color-secondary-contrast: #ffffff;
+    --ion-color-secondary-contrast-rgb: 255,255,255;
+    --ion-color-secondary-shade: #005a00;
+    --ion-color-secondary-tint: #1a751a;
+  }
+
+.login{
+    margin-top: 70vh;
+    margin-left: 40vw;
+}
+
+.register{
+    margin-top: 70vh;
+    margin-left: 5vw;
+}
+  ion-content {
+    --background: url("bg.jpg") no-repeat center center / cover;
+}
+
+
+
+

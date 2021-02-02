@@ -1,0 +1,23 @@
+.RowContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Text {
+  text-align: center;
+  font-size: 30px;
+}
+
+.Copytight {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.IonItem {
+  --border-radius: 10px;
+  /* --padding-top: 10px; */
+  margin-top: 10px;
+}

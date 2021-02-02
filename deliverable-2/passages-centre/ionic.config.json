@@ -1,0 +1,7 @@
+{
+  "name": "passages-centre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

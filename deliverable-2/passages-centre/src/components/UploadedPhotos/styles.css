@@ -1,0 +1,17 @@
+.c {
+  margin-bottom: 200px;
+}
+.RowContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Text {
+  text-align: center;
+  font-size: 30px;
+}
+
+.Header {
+  margin-bottom: 30px;
+}
